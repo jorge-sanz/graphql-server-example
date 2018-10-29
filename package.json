@@ -1,0 +1,24 @@
+{
+  "name": "playground-apollo-server",
+  "version": "1.0.0",
+  "description": "Playground used to learn and experiment with [Apollo Server](https://www.apollographql.com/server).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge-sanz/playground-apollo-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge-sanz/playground-apollo-server/issues"
+  },
+  "homepage": "https://github.com/jorge-sanz/playground-apollo-server#readme",
+  "dependencies": {
+    "apollo-server": "^2.1.0",
+    "graphql": "^14.0.2"
+  }
+}
